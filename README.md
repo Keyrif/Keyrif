@@ -1,7 +1,7 @@
 ### Hello there.
 - I’m currently learning HTML and CSS.
 - 17yo cat from Romania
-<a href="URL"></a> 
+<a href="URL"><img src="URL"> </a> 
 - i love star wars, if you didn't figured it out already
 <!--
 **Keyrif/Keyrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
