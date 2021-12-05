@@ -3,7 +3,7 @@
 - 17yo cat from Romania
 - i love star wars, if you didn't figured it out already
 
-My Website: [monetaru.xyz](https://monetaru.xyz)
+**My Website: [monetaru.xyz](https://monetaru.xyz)**
 <!--
 **Keyrif/Keyrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
