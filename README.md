@@ -1,5 +1,6 @@
 ### Hello there.
-I’m currently learning HTML and CSS.
+- I’m currently learning HTML and CSS.
+- 17yo cat from Romania
 <!--
 **Keyrif/Keyrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
