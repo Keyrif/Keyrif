@@ -1,8 +1,9 @@
 ### Hello there.
 - I’m currently learning HTML and CSS.
 - 17yo cat from Romania
-<a href="URL"><img src="URL"> </a> 
 - i love star wars, if you didn't figured it out already
+
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
 <!--
 **Keyrif/Keyrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
