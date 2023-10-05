@@ -1,6 +1,6 @@
 ### Hello there.
 - I make games when I'm bored
-- catto from Romania
+- from Romania
 - i love star wars, if you didn't figured it out already
 
 
