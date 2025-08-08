@@ -3,7 +3,7 @@
 ---
 
 <p align="center"><b>Video Games:</b></p>
-<p align="center"><sub><i style="color:gray;">These are 3D games written in Python!</i></sub></p>
+<p align="center"><sub><i style="color:gray;">3D games written in Python!</i></sub></p>
 
 <p align="center">
 • <a href="https://keyrif.itch.io/blank-relish">Blank Relish</a><br>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"><b>Front-End Websites:</b></p>
-<p align="center"><sub><i style="color:gray;">!</i></sub></p>
+<p align="center"><sub><i style="color:gray;">Built in HTML, CSS and JavaScript!</i></sub></p>
 
 <p align="center">
 • <a href="https://keyrif.github.io/cefacpartidele/">CE FAC PARTIDELE</a><br>
