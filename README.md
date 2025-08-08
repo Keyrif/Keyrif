@@ -1,3 +1,5 @@
+Hello there! I'm Keyrif, these are the projects that I have worked on until now!
+
 <p align="center"><b>Video Games:</b></p>
 
 <p align="center">
