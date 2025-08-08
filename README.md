@@ -19,6 +19,6 @@
 ---
 
 <p align="center"><b>
-My video game developer page: <a href="https://keyrif.itch.io/">ITCH.IO</a><br>
-My Instagram: <a href="https://www.instagram.com/keyrifnope">instagram.com/keyrifnope</a>
+Video game developer page: <a href="https://keyrif.itch.io/">LINK</a><br>
+Instagram: <a href="https://instagram.com/keyrifnope/">LINK</a><br>
 </b></p>
