@@ -13,3 +13,10 @@ Hello there! I'm Keyrif, these are the projects that I have worked on until now!
 • <a href="https://keyrif.github.io/cefacpartidele/">CE FAC PARTIDELE</a><br>
 • <a href="https://keyrif.github.io/buyfromromania/">BUY FROM ROMANIA</a>
 </p>
+
+---
+
+<p align="center"><b>
+My video game developer page: <a href="https://keyrif.itch.io/">ITCH.IO</a><br>
+My Instagram: <a href="https://www.instagram.com/keyrifnope">instagram.com/keyrifnope</a>
+</b></p>
