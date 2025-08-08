@@ -3,7 +3,7 @@
 ---
 
 <p align="center"><b>Video Games:</b></p>
-<p align="center"><sub><i style="color:gray;">3D games written in Python!</i></sub></p>
+<p align="center"><sub><i style="color:gray;">3D games developed using Python!</i></sub></p>
 
 <p align="center">
 • <a href="https://keyrif.itch.io/blank-relish">Blank Relish</a><br>
