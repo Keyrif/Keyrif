@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center">Video Games:</h2>
+<p align="center" style="font-size:28px; font-weight:bold;">Video Games:</p>
 <p align="center"><sub><i>3D games developed using Python!</i></sub></p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 • <a href="https://keyrif.itch.io/vesperaltimes">Vesperal Times</a>
 </p>
 
-<h2 align="center">Front-End Websites:</h2>
+<p align="center" style="font-size:28px; font-weight:bold;">Front-End Websites:</p>
 <p align="center"><sub><i>Built in HTML, CSS and JavaScript!</i></sub></p>
 
 <p align="center">
