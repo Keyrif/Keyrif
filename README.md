@@ -25,6 +25,7 @@
 
 <p align="center">
 • <a href="https://github.com/SebiTalent04/ce-urmeaza">CE URMEAZA?</a><br>
+• <a href="https:platformabac.vercel.app">INVATA SIMPLU</a><br>
 </p>
 
 ---
