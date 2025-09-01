@@ -23,8 +23,8 @@
 <p align="center"><b>Currently working on:</b></p>
 
 <p align="center">
-• <a href="https://github.com/SebiTalent04/ce-urmeaza">CE URMEAZA?</a><br>
-• <a href="https://platformabac.vercel.app">INVATA SIMPLU</a><br>
+• <a href="https://github.com/Keyrif/ce-urmeaza">CE URMEAZA?</a><br>
+• <a href="https://github.com/Keyrif/invata-simplu">INVATA SIMPLU</a><br>
 </p>
 
 ---
