@@ -30,6 +30,5 @@
 ---
 
 <p align="center"><b>
-Video game developer page: <a href="https://keyrif.itch.io/">LINK</a><br>
-Instagram: <a href="https://instagram.com/keyrifnope/">LINK</a><br>
+ITCH.IO page: <a href="https://keyrif.itch.io/">LINK</a><br>
 </b></p>
