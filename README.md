@@ -12,7 +12,6 @@
 
 
 <p align="center"><b>Front-End Websites:</b></p>
-<p align="center"><sub><i style="color:gray;">Built in HTML, CSS and JavaScript!</i></sub></p>
 
 
 <p align="center">
