@@ -15,7 +15,6 @@
 
 
 <p align="center">
-• <a href="https://keyrif.github.io/cefacpartidele/">CE FAC PARTIDELE</a><br>
 • <a href="https://keyrif.github.io/buyfromromania/">BUY FROM ROMANIA</a>
 </p>
 
