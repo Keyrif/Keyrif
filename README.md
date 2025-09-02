@@ -15,7 +15,7 @@
 
 
 <p align="center">
-• <a href="https://keyrif.github.io/buyfromromania/">BUY FROM ROMANIA</a>
+• <a href="https://github.com/Keyrif/buyfromromania">BUY FROM ROMANIA</a>
 </p>
 
 
