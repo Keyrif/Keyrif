@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"><b>Front-End Websites:</b></p>
+<p align="center"><b>Websites:</b></p>
 
 
 <p align="center">
